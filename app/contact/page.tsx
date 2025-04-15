@@ -13,7 +13,7 @@ export default function Contact() {
       ) : (
         <form
           className="space-y-4"
-          action="https://formspree.io/f/xqkrlqog"
+          action="https://formspree.io/f/xyzevrng"
           method="POST"
           onSubmit={() => setSubmitted(true)}
         >
