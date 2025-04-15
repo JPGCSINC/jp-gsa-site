@@ -1,4 +1,3 @@
-
 import "../styles.css";
 import type { ReactNode } from "react";
 import Link from "next/link";
@@ -14,7 +13,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     <html lang="en">
       <body className="bg-white text-black">
         <header className="p-4 border-b mb-6 flex flex-col items-center">
-          <Image src="/logo.jpg" alt="JP Government Contract Services Logo" width={100} height={100} className="mb-2" />
+          <Image src="/logo.jpg" alt="JP Government Contract Services Logo" width={160} height={160} className="mb-2" />
           <nav className="flex gap-6 justify-center text-lg font-medium text-[#1f4f8a]">
             <Link href="/">Home</Link>
             <Link href="/about">About</Link>

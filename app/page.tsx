@@ -30,13 +30,13 @@ export default function Home() {
         <Card>
           <CardContent className="p-4">
             <h2 className="text-xl font-semibold mb-2 text-[#1f4f8a]">FAS Catalog Transition</h2>
-            <p>Streamlined help for service-based contractors transitioning to the FCP system.</p>
+            <p>Streamlined help for service-based, product-based, and hybrid contractors transitioning to the FCP system.</p>
           </CardContent>
         </Card>
         <Card>
           <CardContent className="p-4">
             <h2 className="text-xl font-semibold mb-2 text-[#1f4f8a]">Contract Mods & Strategy</h2>
-            <p>Adding SINs, price adjustments, or just keeping your contract healthy—we've got it.</p>
+            <p>Adding SINs, products, or services; price adjustments; contract renewals; or simply keeping your contract healthy—we've got it.</p>
           </CardContent>
         </Card>
       </section>
